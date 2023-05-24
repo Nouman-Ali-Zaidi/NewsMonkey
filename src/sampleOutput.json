@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "lequipe",
+                "name": "L'equipe"
+            },
+            "author": "L'EQUIPE",
+            "title": "Programme TV foot : à quelle heure et sur quelle chaîne voir les matchs de ce soir (23 mai 2023) ?",
+            "description": "Retrouvez l'intégralité des retransmissions des matches de football du jour retransmis sur toutes les chaînes du bouquet TNT, Câble et Satellite. Ligue 1, Ligue 2, Premier League, coupes d'Europe... Suivez tous les matches en direct sur votre télévision ou en…",
+            "url": "https://www.lequipe.fr/Football/Actualites/Programme-tv-foot-a-quelle-heure-et-sur-quelle-chaine-voir-les-matchs-de-ce-soir-23-mai-2023/1398134",
+            "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/-/1500000001560313/4:0,2500:1664-640-427-75/3ed0a.jpg",
+            "publishedAt": "2023-05-23T05:00:18+00:00",
+            "content": "Coupe du monde U20 - : 2e journée \r\n- Ouzbékistan - Nouvelle-Zélande : à 20 heures en direct uniquement sur L'Équipe Live- Etats - Unis - Fidji : à 20 heures en direct uniquement sur L'Équipe Live- A… [+147 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Who is like prime Hoddle? Garth's Team of the Week",
+            "description": "Which players impressed our football pundit Garth Crooks enough to make his latest Team of the Week?",
+            "url": "http://www.bbc.co.uk/sport/football/65666206",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/8A5F/production/_129832453_quiz-index-imagery-cant-show-face-generic--99a3fad9-7728-4175-b6b1-a77e1dc7b6ee.png",
+            "publishedAt": "2023-05-22T22:52:23.5699143Z",
+            "content": "At the end of every round of fixtures, BBC football pundit Garth Crooks is on hand to give you his Team of the Week.\r\nWho has he picked this time? Take a look and then pick your own team below and sh… [+11190 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": null,
+            "title": "NFL owners OK flexing of Thursday night games - ESPN",
+            "description": "NFL owners have approved flexing for \"Thursday Night Football\" starting this season.",
+            "url": "https://www.espn.com/nfl/story/_/id/37709462/nfl-owners-ok-flexing-thursday-night-games",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2016%2F0701%2Fr98819_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-05-22T21:20:00Z",
+            "content": "May 22, 2023, 05:20 PM ET\r\nNFL owners have approved flexing for \"Thursday Night Football\" starting this season during Weeks 13 through 17.\r\nThe change passed by a 24-8 vote, a source told ESPN's Adam… [+514 chars]"
+        },
+        {
+            "source": {
+                "id": "talksport",
+                "name": "TalkSport"
+            },
+            "author": "Phil Spencer",
+            "title": "Newcastle secure Champions League football for first time in 20 years with Manchester United and Liverpool...",
+            "description": "",
+            "url": "https://talksport.com/football/1433083/newcastle-champions-league-top-four-premier-league/",
+            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/05/newcastle-uniteds-teammates-celebrate-end-819704411.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+            "publishedAt": "2023-05-22T21:05:45Z",
+            "content": "Newcastle will be playing Champions League football next season as their draw at home to Leicester cemented their spot in the top four.\r\nThe Magpies needed just a point against Leicester to confirm t… [+1474 chars]"
+        },
+        {
+            "source": {
+                "id": "four-four-two",
+                "name": "FourFourTwo"
+            },
+            "author": "Ryan Dabbs",
+            "title": "Joey Barton explains he’s still involved in football because he’s a ‘warrior’ – not because he needs the money",
+            "description": "The Bristol Rovers boss also has his sights set higher on League One, with Everton a potentially dream job",
+            "url": "https://www.fourfourtwo.com/news/joey-barton-explains-hes-still-involved-in-football-because-hes-a-warrior-not-because-he-needs-the-money",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/rq7c86rBJnPKRwiPpgj8Ga-1200-80.jpg",
+            "publishedAt": "2023-05-22T18:56:40Z",
+            "content": "Joey Barton says moving into management after retiring from professional football as a player was out of necessity of staying involved within the game, with the Bristol Rovers boss claiming his compe… [+1884 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+            "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+            "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+            "publishedAt": "2020-04-27T07:20:43Z",
+            "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+        }
+    ]
+}
